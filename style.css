@@ -110,7 +110,7 @@ audio {
 	height: 100%;
 }
 
-@media screen and (max-device-width: 1024px) {
+@media screen and (max-device-width: 480px) and (orientation: portrait){
 	body {
 		height: 120%;
 	}
