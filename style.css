@@ -1,7 +1,6 @@
     body {
-      animation: colorchange 50s; /* animation-name followed by duration in seconds*/
-         /* you could also use milliseconds (ms) or something like 2.5s */
-      -webkit-animation: colorchange 50s; /* Chrome and Safari */
+      animation: colorchange 50s; /* much cleaner approach, hacky one didnt work well for mobile*/
+      -webkit-animation: colorchange 50s;
     }
 
     @keyframes colorchange
@@ -13,7 +12,7 @@
       100% {background: red;}
     }
 
-    @-webkit-keyframes colorchange /* Safari and Chrome - necessary duplicate */
+    @-webkit-keyframes colorchange /* just in case */
     {
       0%   {background: red;}
       25%  {background: yellow;}
