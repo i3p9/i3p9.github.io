@@ -2,7 +2,7 @@
       /*animation: colorchange 50s; /* much cleaner approach, hacky one didnt work well for mobile*/
       /*-webkit-animation: colorchange 50s;*/
       background-image: linear-gradient(to right top, #240b36, #4d0845, #780049, #a10043, #c31432);
-      background-image: -webkit-linear-gradient(right top, #240b36, #4d0845, #780049, #a10043, #c31432);
+      background-image: -webkit-linear-gradient(top right, #240b36, #4d0845, #780049, #a10043, #c31432);
     }
 
     @keyframes colorchange
