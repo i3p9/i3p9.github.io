@@ -111,6 +111,7 @@ body {
   white-space: nowrap;
   margin: 0 auto;
   letter-spacing: 0.1em;
+  animation: typing 3s steps(10, end), 
     blink-caret 0.5s step-end infinite;
 }
 
