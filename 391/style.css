@@ -1,5 +1,6 @@
 * {
     margin-left: 5px;
+    font-family: 'Montserrat',sans-serif;
 }
 
 .bottomright {
@@ -7,7 +8,9 @@
     bottom: 0;
     right: 0;
     color: dimgray;
+    font-family: 'Source Code Pro', monospace;
     font-style: italic;
+    font-size: smaller;
     margin-right: 10px;
     margin-bottom: 5px;
 }
@@ -19,6 +22,7 @@
 }
 
 .name {
+    font-family: 'Dosis', sans-serif;
     font-size: 25px;
     text-align: center;
     color: firebrick;
@@ -91,4 +95,4 @@ caption {
 .container {
     text-align: center;
     padding: 10px 20px;
-}
+}   
