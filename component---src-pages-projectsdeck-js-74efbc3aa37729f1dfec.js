@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmysitev2=self.webpackChunkmysitev2||[]).push([[581],{458:function(e,t,n){n.r(t);var a=n(7294);t.default=function(){return a.createElement("main",null,a.createElement("div",{className:"container"},a.createElement("div",null,a.createElement("h1",{className:"home-name"},"Projects"))))}}}]);
+//# sourceMappingURL=component---src-pages-projectsdeck-js-74efbc3aa37729f1dfec.js.map
