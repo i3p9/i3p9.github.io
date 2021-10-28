@@ -24317,24 +24317,24 @@ module.exports = withSideEffect;
 /***/ }),
 
 /***/ "react-dom/server":
-/*!************************************************************************************************!*\
-  !*** external "C:\\Users\\fahim\\gits\\personalwebsiteV2\\node_modules\\react-dom\\server.js" ***!
-  \************************************************************************************************/
+/*!**************************************************************************************!*\
+  !*** external "/Users/fahim/git/personalwebsiteV2/node_modules/react-dom/server.js" ***!
+  \**************************************************************************************/
 /***/ ((module) => {
 
 "use strict";
-module.exports = require("C:\\Users\\fahim\\gits\\personalwebsiteV2\\node_modules\\react-dom\\server.js");
+module.exports = require("/Users/fahim/git/personalwebsiteV2/node_modules/react-dom/server.js");
 
 /***/ }),
 
 /***/ "react":
-/*!*******************************************************************************************!*\
-  !*** external "C:\\Users\\fahim\\gits\\personalwebsiteV2\\node_modules\\react\\index.js" ***!
-  \*******************************************************************************************/
+/*!*********************************************************************************!*\
+  !*** external "/Users/fahim/git/personalwebsiteV2/node_modules/react/index.js" ***!
+  \*********************************************************************************/
 /***/ ((module) => {
 
 "use strict";
-module.exports = require("C:\\Users\\fahim\\gits\\personalwebsiteV2\\node_modules\\react\\index.js");
+module.exports = require("/Users/fahim/git/personalwebsiteV2/node_modules/react/index.js");
 
 /***/ }),
 
